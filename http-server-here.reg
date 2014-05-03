@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+ 
+ [HKEY_CLASSES_ROOT\Directory\shell\httpserver]
+ @="HTTP Server Here"
+ 
+ [HKEY_CLASSES_ROOT\Directory\shell\httpserver\command]
+ @=hex(2):22,00,25,00,41,00,50,00,50,00,44,00,41,00,54,00,41,00,25,\
+  00,5c,00,6e,00,70,00,6d,00,5c,00,68,00,74,00,74,00,70,00,2d,00,73,00,65,00,\
+  72,00,76,00,65,00,72,00,2e,00,63,00,6d,00,64,00,22,00,20,00,22,00,25,00,31,\
+  00,22,00,00,00
